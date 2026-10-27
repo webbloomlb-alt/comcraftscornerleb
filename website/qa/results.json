@@ -1,0 +1,22 @@
+{
+  "passed": true,
+  "products": 12,
+  "checks": [
+    "Desktop and mobile layout",
+    "Category filters",
+    "Search and no-results recovery",
+    "Price sorting",
+    "Required design selection",
+    "Add to picks",
+    "Local persistence after reload",
+    "Quantity updates",
+    "WhatsApp recipient and message",
+    "Removal and empty state",
+    "Mobile navigation",
+    "Dialog close with Escape",
+    "All images loaded",
+    "No horizontal overflow",
+    "No application errors"
+  ],
+  "externalMessagesSent": 0
+}

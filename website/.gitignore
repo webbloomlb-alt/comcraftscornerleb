@@ -1,0 +1,9 @@
+research/
+qa/
+node_modules/
+*.tar.gz
+*.zip
+.DS_Store
+prepare-assets.cjs
+assemble.cjs
+verify.cjs
