@@ -15,7 +15,7 @@ npm run dev
 
 Open http://127.0.0.1:4173/. No dependency installation or build step is required to serve the website.
 
-Published private preview: https://crafts-corner-lebanon.mavos-8036.chatgpt.site
+Live site: https://craftscorner.duckdns.org
 
 ## Project contents
 

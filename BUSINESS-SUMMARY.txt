@@ -22,7 +22,7 @@ Existing online store: https://www.craftscornerleb.com/
 Delivery: across Lebanon. The official FAQ lists cash on delivery in USD.
 
 NEW WEBSITE
-Private preview: https://crafts-corner-lebanon.mavos-8036.chatgpt.site
+Live site: https://craftscorner.duckdns.org
 Local website files: C:\Projects\comcraftscornerleb\website
 The new site includes 12 curated products, category filters, search, design selection, saved picks, and a WhatsApp enquiry flow. Final availability and prices are confirmed by the business.
 
