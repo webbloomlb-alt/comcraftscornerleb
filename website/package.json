@@ -1,1 +1,11 @@
-{"name":"crafts-corner-lebanon","version":"1.0.0","private":true,"description":"Crafts Corner craft and DIY catalogue","scripts":{"dev":"node server.cjs","check":"node --check dist/app.js && node --check dist/products.js"}}
+{
+  "name": "crafts-corner-lebanon",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Crafts Corner craft and DIY catalogue",
+  "scripts": {
+    "dev": "node server.cjs",
+    "check": "node --check dist/app.js && node --check dist/products.js",
+    "verify": "node verify.cjs"
+  }
+}

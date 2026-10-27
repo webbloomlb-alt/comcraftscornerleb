@@ -4,7 +4,9 @@
   "checks": [
     "Desktop and mobile layout",
     "Category filters",
+    "Search by product and design name",
     "Search and no-results recovery",
+    "Closing search resets results",
     "Price sorting",
     "Required design selection",
     "Add to picks",
@@ -12,7 +14,7 @@
     "Quantity updates",
     "WhatsApp recipient and message",
     "Removal and empty state",
-    "Mobile navigation",
+    "Mobile navigation (incl. tap outside to close)",
     "Dialog close with Escape",
     "All images loaded",
     "No horizontal overflow",
